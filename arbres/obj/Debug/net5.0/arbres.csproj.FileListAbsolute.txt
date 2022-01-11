@@ -1,0 +1,16 @@
+C:\Users\école\Documents\GitHub\arbres\arbres\bin\Debug\net5.0\arbres.exe
+C:\Users\école\Documents\GitHub\arbres\arbres\bin\Debug\net5.0\arbres.deps.json
+C:\Users\école\Documents\GitHub\arbres\arbres\bin\Debug\net5.0\arbres.runtimeconfig.json
+C:\Users\école\Documents\GitHub\arbres\arbres\bin\Debug\net5.0\arbres.runtimeconfig.dev.json
+C:\Users\école\Documents\GitHub\arbres\arbres\bin\Debug\net5.0\arbres.dll
+C:\Users\école\Documents\GitHub\arbres\arbres\bin\Debug\net5.0\ref\arbres.dll
+C:\Users\école\Documents\GitHub\arbres\arbres\bin\Debug\net5.0\arbres.pdb
+C:\Users\école\Documents\GitHub\arbres\arbres\obj\Debug\net5.0\arbres.csproj.AssemblyReference.cache
+C:\Users\école\Documents\GitHub\arbres\arbres\obj\Debug\net5.0\arbres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\école\Documents\GitHub\arbres\arbres\obj\Debug\net5.0\arbres.AssemblyInfoInputs.cache
+C:\Users\école\Documents\GitHub\arbres\arbres\obj\Debug\net5.0\arbres.AssemblyInfo.cs
+C:\Users\école\Documents\GitHub\arbres\arbres\obj\Debug\net5.0\arbres.csproj.CoreCompileInputs.cache
+C:\Users\école\Documents\GitHub\arbres\arbres\obj\Debug\net5.0\arbres.dll
+C:\Users\école\Documents\GitHub\arbres\arbres\obj\Debug\net5.0\ref\arbres.dll
+C:\Users\école\Documents\GitHub\arbres\arbres\obj\Debug\net5.0\arbres.pdb
+C:\Users\école\Documents\GitHub\arbres\arbres\obj\Debug\net5.0\arbres.genruntimeconfig.cache
